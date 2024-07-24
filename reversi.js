@@ -191,6 +191,6 @@ function finish(){
 
 function restart(){
     if(confirm("本当に終了しますか?")){
-        window.location.href="/"
+        window.location.href="./"
     }
 }
